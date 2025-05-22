@@ -1,7 +1,7 @@
 Warehouse Location Problem with Pyomo and Custom Branch & Bound  
 Συνδυαστική Βελτιστοποίηση  
 Ακαδημαϊκό Έτος: 2024-2025  
-Όνομα: Γρηγοράσκος Γιώργος 1797  
+Όνομα: Γρηγοράσκος Γιώργος
 Ομάδα Χρηστών 7 / BrtTeam7  
 
 Θέμα Project:  
